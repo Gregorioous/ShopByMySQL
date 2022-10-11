@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project from Android/ShopByMysql/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Project from Android/ShopByMysql/app/src/main/res/layout/catalog_categories.xml" value="0.365625" />
+        <entry key="..\:/Project from Android/ShopByMysql/app/src/main/res/layout/catalog_clothes.xml" value="0.365625" />
+        <entry key="..\:/Project from Android/ShopByMysql/app/src/main/res/layout/catalog_products.xml" value="0.36666666666666664" />
+        <entry key="..\:/Project from Android/ShopByMysql/app/src/main/res/layout/category_item.xml" value="0.33" />
+        <entry key="..\:/Project from Android/ShopByMysql/app/src/main/res/layout/panel.xml" value="0.33" />
+        <entry key="..\:/Project from Android/ShopByMysql/app/src/main/res/layout/panel_edit_category.xml" value="0.365625" />
+        <entry key="..\:/Project from Android/ShopByMysql/app/src/main/res/layout/panel_edit_product.xml" value="0.365625" />
+        <entry key="..\:/Project from Android/ShopByMysql/app/src/main/res/layout/product_item.xml" value="0.365625" />
+        <entry key="..\:/Project from Android/ShopByMysql/app/src/main/res/menu/bottom_menu.xml" value="0.365625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
